@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  width: 75vw;
+  margin: 0 auto;
+  background-color: #333;
+  border-radius: 10px;
+  overflow: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+a {
+  text-align: center;
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+  color: #fff;
+  transition: background-color 0.3s, border-radius 0.3s;
+}
+
+a:hover {
+  background-color: #555;
+  border-radius: 20px;
+}
