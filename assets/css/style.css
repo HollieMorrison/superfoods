@@ -25,16 +25,22 @@ a {
   padding: 15px;
   text-decoration: none;
   color: #fff;
-  transition: background-color 0.3s, border-radius 0.3s;
+  transition: background-color 0.2s, border-radius 0.2s;
 }
 
 a:hover {
   background-color: #555;
   border-radius: 20px;
 }
-h1{
+h1 {
   text-align: center;
 }
-img{
+img {
+  
+}
+.opening-paragraph{
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
   text-align: center;
 }
