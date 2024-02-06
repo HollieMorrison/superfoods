@@ -32,7 +32,8 @@ a:hover {
   background-color: #555;
   border-radius: 20px;
 }
-h1 {
+h1, h2 {
+  margin-left: 11%;
   text-align: center;
   color: darkolivegreen;
 }
@@ -42,8 +43,20 @@ h1 {
   justify-content: space-between;
   text-align: center;
 }
-img{
-  border-radius: 50%;
+.members-grid{
+  margin: 10%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 26px;
 }
+.members-grid img{
+  margin: 30%;
+  height: 200px;
+  width: 200px;
+}
+img{
+  border-radius: 20%;
+}
+
 
 /* Media query for ()
