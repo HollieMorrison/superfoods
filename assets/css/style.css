@@ -1,8 +1,19 @@
-body {
+/* Wildcard selector for overriding browser default styles*/
+* {
+  padding: 0;
   margin: 0;
-  font-family: Arial, sans-serif;
+  box-sizing: border-box;
 }
 
+/* body styling */
+body {
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  align-items: center;
+}
+
+/* Menu navigation styles */
 nav {
   width: 75vw;
   margin: 0 auto;
@@ -11,6 +22,7 @@ nav {
   overflow: none;
 }
 
+/* Styles for unordered list spacing evenly */
 ul {
   list-style: none;
   padding: 0;
@@ -19,7 +31,9 @@ ul {
   justify-content: space-evenly;
 }
 
+/* All anchor tags styling */
 a {
+  align-items: center;
   text-align: center;
   display: block;
   padding: 15px;
@@ -28,21 +42,28 @@ a {
   transition: background-color 0.2s, border-radius 0.2s;
 }
 
+/* Change background color of menu links when mouse hovers over each item */
 a:hover {
   background-color: #555;
   border-radius: 20px;
+
+/* Styles applied to h1 and h2 headings to keep them centered */
 }
 h1, h2 {
-  margin-left: 11%;
+  width: 50vw;
+  align-items: center;
   text-align: center;
   color: darkolivegreen;
 }
+
 .opening-paragraph{
   margin: 20px;
   display: flex;
   justify-content: space-between;
   text-align: center;
 }
+
+/* Grid of members images on stories page */
 .members-grid{
   margin: 10%;
   display: grid;
@@ -51,9 +72,11 @@ h1, h2 {
 }
 .members-grid img{
   margin: 30%;
-  height: 200px;
-  width: 200px;
+  height: auto;
+  max-width: 50%;
 }
+
+/* All images to follow same style for appealing view to users */
 img{
   border-radius: 20%;
 }
