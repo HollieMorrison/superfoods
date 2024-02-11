@@ -1,0 +1,57 @@
+.page_contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: fit-content;
+    max-width: 600px;
+    margin: auto;
+}
+
+.page_contact form .input {
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
+
+}
+
+.page_contact form .input label {
+    padding-bottom: 10px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.page_contact form .input input {
+    width: 100%;
+    padding: 10px 5px;
+    margin: 0px;
+    border: 0px;
+    border-bottom: 1px solid #000;
+}
+
+.page_contact form .input input:focus {
+    outline: none;
+    border-bottom: 1px solid pink;
+}
+
+.page_contact form .input textarea {
+    min-width: 100%;
+    padding: 10px;
+    border: 0px;
+    border-bottom: 1px solid #000;
+    font-family: Arial, sans-serif;
+    min-height: 37px;
+    max-width: 300px;
+}
+
+
+.page_contact form input[type="submit"] {
+    background-color: pink;
+    color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    max-width: 150px;
+    align-self: flex-start;
+}
