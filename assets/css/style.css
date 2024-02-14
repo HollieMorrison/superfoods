@@ -102,13 +102,6 @@ h1, h2 {
 }
 
 
-
-hr {
-  border: darkgreen;
-  width: 75%;
-  padding: 5px;
-}
-
 /* Grid of members images on stories page */
 .members-grid {
   max-width: 790px;
@@ -119,6 +112,7 @@ hr {
   padding: 50px 0px;
 }
 
+/* Media queries for all screen sizes*/
 @media(max-width: 1200px) {
   .members-grid {
     max-width: 985px;
@@ -168,5 +162,8 @@ img {
   justify-content: space-evenly;
 }
 
+i {
+  height: 16px;
+  width: 16px;
+}
 
-/* Media query for ()
