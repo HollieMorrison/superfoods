@@ -108,19 +108,19 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 </summary>
 
 
-![CSS validation result](/assets/images/css-validation.PNG)
+![CSS validation result](./assets/readme/css_validation.png)
 </details>
 
 <summary>contact.css
 </summary>
 
-![CSS validation result](/assets/images/css-validation.PNG)
+![CSS validation result](./assets/readme/css_validation.png)
 </details>
 
 <summary>home.css
 </summary>
 
-![CSS validation result](/assets/images/css-validation.PNG)
+![CSS validation result](./assets/readme/css_validation.png)
 </details>
 
 ### Manual Testing
