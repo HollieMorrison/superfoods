@@ -89,29 +89,24 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>index.html
 </summary>
 
-![Home Page validation result]()
+![Index Page validation result](./assets/readme/html_validation.png)
 </details>
 <details>
 <summary>stories.html
 </summary>
 
-![Gallery validation result](/assets/images/html-validation.PNG)
+![Contact page validation result](./assets/readme/html_validation.png)
 </details>
 <details>
 <summary>contact.html
 </summary>
 
-![Sign Up page validation result](/assets/images/html-validation.PNG)
+![Thanks page validation result](./assets/readme/html_validation.png)
 </details>
 <details>
 <summary>thanks.html
 </summary>
 
-![Application Received validation result](/assets/images/html-validation.PNG)
-</details>
-<details>
-<summary>style.css
-</summary>
 
 ![CSS validation result](/assets/images/css-validation.PNG)
 </details>
