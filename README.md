@@ -170,19 +170,19 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>Stories
 </summary>
 
-![Gallery lighthouse report](/assets/images/gallery-report.PNG)
+![Stories lighthouse report](./assets/readme/stories.html_lighthouse_desktop.png)
 </details>
 <details>
-<summary>Sign Up
+<summary>Contact Page
 </summary>
 
-![Sign Up Page lighthouse report](/assets/images/sign-up-report.PNG)
+![Contact Page lighthouse report](./assets/readme/contact.html_lighthouse_desktop.png)
 </details>
 <details>
-<summary>Application Received
+<summary>Thanks Page
 </summary>
 
-![Application received lighthouse report](/assets/images/form-received-report.PNG)
+![Thanks Page lighthouse report](./assets/readme/thanks.html_lighthouse_desktop.png)
 </details>
 
 ---
@@ -218,3 +218,25 @@ By forking the repository, we make a copy of the original repository on our GitH
 7. Press Enter and your local clone will be created.
 
 ---
+## Credits
+
+### Code
+ * Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+ * The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
+
+### Content
+
+ * Information about foods taken from [Medical News Today information on foods](https://www.medicalnewstoday.com/)
+ 
+
+### Media 
+
+ * [Pexels](https://www.pexels.com/) free stock photos, royalty free images.
+ * [Pixabay](https://pixabay.com/) free stock photos, royalty free images.
+ * [Pixlr](https://pixlr.com/) Resizing images.
+---
+
+## Acknowledgements
+
+ * My mentor Mitko Bachvarov provided helpful feedback and a link to the Flexbox guide.
+ * Slack community for encouragement and information.
