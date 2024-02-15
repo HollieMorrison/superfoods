@@ -135,28 +135,28 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 #### Mobile analysis
 <details>
-<summary>Home Page
+<summary>Index Page
 </summary>
 
-![Home Page lighthouse report](/assets/images/home-mobile-report.PNG)
+![Index Page lighthouse report](./assets/readme/index.html_lighthouse_mobile.png)
 </details>
 <details>
-<summary>Gallery
+<summary>Stories Page
 </summary>
 
-![Gallery lighthouse report](/assets/images/gallery-mobile-report.PNG)
+![Stories Page lighthouse report](./assets/readme/stories.html_lighthouse_mobile.png)
 </details>
 <details>
-<summary>Sign Up
+<summary>Contact Page
 </summary>
 
-![Sign Up Page lighthouse report](/assets/images/sign-up-mobile-report.PNG)
+![Contact Page lighthouse report](./assets/readme/contact.html_lighthouse_mobile.png)
 </details>
 <details>
-<summary>Application Received
+<summary>Thanks Page
 </summary>
 
-![Application received lighthouse report](/assets/images/form-received-mobile-report.PNG)
+![Thanks Page lighthouse report](./assets/readme/thanks.html_lighthouse_mobile.png)
 </details>
 
 #### Desktop analysis
