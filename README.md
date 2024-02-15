@@ -161,13 +161,13 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 #### Desktop analysis
 <details>
-<summary>Home Page
+<summary>Index Page
 </summary>
 
-![Gallery Page lighthouse report](/assets/images/home-page-report.PNG)
+![Index Page lighthouse report](./assets/readme/index.html_lighthouse_desktop.png)
 </details>
 <details>
-<summary>Gallery
+<summary>Stories
 </summary>
 
 ![Gallery lighthouse report](/assets/images/gallery-report.PNG)
