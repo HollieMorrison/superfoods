@@ -50,9 +50,9 @@ People can contact 5 super foods your body needs to discuss any dietary question
 * Success stories page full of pictures of members and how their lives have changed since joining.
 * In future, there could be a form for members to join the sites members list.
 
-[Index.html](./assets/readme/index.html_pageshot.png)
-[Stories.html](./assets/readme/stories.html_pageshot.png)
-[Contact.html](./assets/readme/contact.html_pageshot.png)
+![Index.html](./assets/readme/index.html_pageshot.png)
+![Stories.html](./assets/readme/stories.html_pageshot.png)
+![Contact.html](./assets/readme/contact.html_pageshot.png)
 
 ## Design
 
