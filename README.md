@@ -231,12 +231,12 @@ By forking the repository, we make a copy of the original repository on our GitH
 
 ### Media 
 
- * [Pexels](https://www.pexels.com/) free stock photos, royalty free images.
- * [Pixabay](https://pixabay.com/) free stock photos, royalty free images.
- * [Pixlr](https://pixlr.com/) Resizing images.
+ * [Food Photos](https://www.google.co.uk/imghp?hl=en&ogbl) Images of food from google images.
+ * [Pictures of members](https://www.pinterest.co.uk/) Images of women from pinterest.
+ * [Image compressor](https://imagecompressor.com/) Resizing images.
 ---
 
 ## Acknowledgements
 
- * My mentor Mitko Bachvarov provided helpful feedback and a link to the Flexbox guide.
+ * My mentor Mitko Bachvarov provided helpful feedback regarding improvements and criteria.
  * Slack community for encouragement and information.
