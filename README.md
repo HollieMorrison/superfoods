@@ -2,7 +2,7 @@
 
 5 super foods your body needs is a website where you can find benefits of eating certain foods and changes they can make to your body. It also shows the user other members of the site who are sharing their stories about their change in diet. The site is simple and easy to navigate making it accessible for all users.
 
-![Am i repsonsive](./assets/readme/am_i_responsive_image.png)
+![Am i repsonsive](./assets/readme/am-i-responsive-image.png)
 [View 5 super foods your body needs live project here](https://holliemorrison.github.io/superfoods/)
 
 ## Table of contents :
@@ -50,9 +50,9 @@ People can contact 5 super foods your body needs to discuss any dietary question
 * Success stories page full of pictures of members and how their lives have changed since joining.
 * In future, there could be a form for members to join the sites members list.
 
-![Index.html](./assets/readme/index.html_pageshot.png)
-![Stories.html](./assets/readme/stories.html_pageshot.png)
-![Contact.html](./assets/readme/contact.html_pageshot.png)
+![Index.html](./assets/readme/index.html-pageshot.png)
+![Stories.html](./assets/readme/stories.html-pageshot.png)
+![Contact.html](./assets/readme/contact.html-pageshot.png)
 
 ## Design
 
@@ -89,38 +89,38 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>index.html
 </summary>
 
-![Index Page validation result](./assets/readme/html_validation.png)
+![Index Page validation result](./assets/readme/html-validation.png)
 </details>
 <details>
 <summary>stories.html
 </summary>
 
-![Contact page validation result](./assets/readme/html_validation.png)
+![Contact page validation result](./assets/readme/html-validation.png)
 </details>
 <details>
 <summary>contact.html
 </summary>
 
-![Thanks page validation result](./assets/readme/html_validation.png)
+![Thanks page validation result](./assets/readme/html-validation.png)
 </details>
 <details>
 <summary>thanks.html
 </summary>
 
 
-![CSS validation result](./assets/readme/html_validation.png)
+![CSS validation result](./assets/readme/html-validation.png)
 </details>
 
 <summary>contact.css
 </summary>
 
-![CSS validation result](./assets/readme/css_validation.png)
+![CSS validation result](./assets/readme/css-validation.png)
 </details>
 
 <summary>home.css
 </summary>
 
-![CSS validation result](./assets/readme/css_validation.png)
+![CSS validation result](./assets/readme/css-validation.png)
 </details>
 
 ### Manual Testing
@@ -138,25 +138,25 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>Index Page
 </summary>
 
-![Index Page lighthouse report](./assets/readme/index.html_lighthouse_mobile.png)
+![Index Page lighthouse report](./assets/readme/index.html-lighthouse-mobile.png)
 </details>
 <details>
 <summary>Stories Page
 </summary>
 
-![Stories Page lighthouse report](./assets/readme/stories.html_lighthouse_mobile.png)
+![Stories Page lighthouse report](./assets/readme/stories.html-lighthouse-mobile.png)
 </details>
 <details>
 <summary>Contact Page
 </summary>
 
-![Contact Page lighthouse report](./assets/readme/contact.html_lighthouse_mobile.png)
+![Contact Page lighthouse report](./assets/readme/contact.html-lighthouse-mobile.png)
 </details>
 <details>
 <summary>Thanks Page
 </summary>
 
-![Thanks Page lighthouse report](./assets/readme/thanks.html_lighthouse_mobile.png)
+![Thanks Page lighthouse report](./assets/readme/thanks.html-lighthouse-mobile.png)
 </details>
 
 #### Desktop analysis
@@ -164,25 +164,25 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>Index Page
 </summary>
 
-![Index Page lighthouse report](./assets/readme/index.html_lighthouse_desktop.png)
+![Index Page lighthouse report](./assets/readme/index.html-lighthouse-desktop.png)
 </details>
 <details>
 <summary>Stories
 </summary>
 
-![Stories lighthouse report](./assets/readme/stories.html_lighthouse_desktop.png)
+![Stories lighthouse report](./assets/readme/stories.html-lighthouse-desktop.png)
 </details>
 <details>
 <summary>Contact Page
 </summary>
 
-![Contact Page lighthouse report](./assets/readme/contact.html_lighthouse_desktop.png)
+![Contact Page lighthouse report](./assets/readme/contact.html-lighthouse-desktop.png)
 </details>
 <details>
 <summary>Thanks Page
 </summary>
 
-![Thanks Page lighthouse report](./assets/readme/thanks.html_lighthouse_desktop.png)
+![Thanks Page lighthouse report](./assets/readme/thanks.html-lighthouse-desktop.png)
 </details>
 
 ---
