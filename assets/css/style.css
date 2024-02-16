@@ -82,7 +82,8 @@ h1, h2 {
   font-size: 30px;
   color: darkolivegreen;
 }
- /* Styles applied to all opening paragraphs */
+
+/* Styles applied to all opening paragraphs */
 .opening-paragraph {
   width: 100%;
   padding: 18px 18px;
@@ -163,5 +164,21 @@ img {
 i {
   height: 16px;
   width: 16px;
+  color: #000;
 }
 
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer .footer_socials {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+footer .footer_socials a:hover i {
+  color: #fff;
+}
