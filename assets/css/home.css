@@ -31,9 +31,10 @@ section.benefits_comp .benefit .b_title h2 {
 }
 
 section.benefits_comp .benefit .b_header {
-    width: 100%;
+
     height: 350px;
-    min-width: 280px;
+    min-width: 470px;
+    max-width: 475px;
 }
 
 @media (max-width: 900px) {

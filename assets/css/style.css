@@ -74,17 +74,15 @@ a:hover {
   background-color: #555;
   border-radius: 20px;
 
-  /* Styles applied to h1 and h2 headings to keep them centered */
+  /* Styles applied to h1 and h2 headings */
 }
 
 h1, h2 {
 
   font-size: 30px;
-
-
   color: darkolivegreen;
 }
-
+ /* Styles applied to all opening paragraphs */
 .opening-paragraph {
   width: 100%;
   padding: 18px 18px;
