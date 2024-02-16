@@ -2,78 +2,76 @@ section.benefits_comp {
     display: flex;
     flex-direction: column;
     gap: 50px;
+    padding: 20px 0px;
 }
 
-section.benefits_comp  .benefit {
-display: flex;
+section.benefits_comp .benefit {
+    display: flex;
     flex-direction: row;
     gap: 25px;
     align-items: center;
 }
 
-section.benefits_comp  .benefit {
-display: flex;
-    flex-direction: row;
-    gap: 25px;
-    align-items: center;
-}
 @media (max-width: 768px) {
-    section.benefits_comp  .benefit {
+    section.benefits_comp .benefit {
         flex-direction: column;
     }
 }
 
-
-section.benefits_comp  {
-padding: 20px 0px;
-}
 section.benefits_comp .benefit .b_para {
- height: fit-content;
+    height: fit-content;
 }
-section.benefits_comp  .benefit p {
-  text-align: left;
+
+section.benefits_comp .benefit p {
+    text-align: left;
 }
+
 section.benefits_comp .benefit .b_title h2 {
-padding-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 section.benefits_comp .benefit .b_header {
-width: 100%;
-height: 350px;
-min-width: 280px;
+    width: 100%;
+    height: 350px;
+    min-width: 280px;
 }
+
 @media (max-width: 900px) {
-   section.benefits_comp .benefit .b_header {
-width: 100%;
-height: 250px;
-}
+    section.benefits_comp .benefit .b_header {
+        width: 100%;
+        height: 250px;
+    }
 }
 
 @media (min-width: 600px) and (max-width: 800px) {
-   section.benefits_comp .benefit .b_header {
-width: 350px;
-height: 250px;
-margin: auto;
+    section.benefits_comp .benefit .b_header {
+        width: 350px;
+        height: 250px;
+        margin: auto;
+    }
 }
-}
-@media (min-width: 600px) and (max-width: 768px) {
-section.benefits_comp .benefit .b_para {
-text-align: center;
 
+@media (min-width: 600px) and (max-width: 768px) {
+    section.benefits_comp .benefit .b_para {
+        text-align: center;
+
+    }
+
+    @media (max-width: 600px) {
+        section.benefits_comp .benefit .b_header {
+            width: 100%;
+            height: 250px;
+        }
+    }
+
+    section.benefits_comp .benefit .b_para p {
+        text-align: center;
+    }
 }
-@media (max-width: 600px) {
- section.benefits_comp .benefit .b_header {
-width: 100%;
-height: 250px;
-}
-}
-section.benefits_comp .benefit .b_para p {
-text-align: center;
-}
-}
+
 section.benefits_comp .benefit .b_header img {
-width: 100%;
-height: 100%;
-object-fit: cover;
-border-radius: 40px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 40px;
 }
